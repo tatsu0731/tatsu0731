@@ -8,5 +8,5 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌱my skills
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,html,css,php,laravel,py,mysql,react,nextjs,postgres,figma,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,tailwind,html,css,php,laravel,py,mysql,react,nextjs,postgres,figma,firebase&theme=light)](https://skillicons.dev)
 
