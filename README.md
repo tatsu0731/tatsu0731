@@ -7,5 +7,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=tatsu0731)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌱my skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,php,laravel,py,react,nextjs,mysql,postgres,figma,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,php,laravel,py,react,nextjs,mysql,postgres,figma,firebase,supabase&theme=light)](https://skillicons.dev)
 
