@@ -9,3 +9,13 @@
 ## 🌱my skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,php,laravel,ruby,rails,py,go,react,nextjs,mysql,postgres,figma,firebase,supabase,docker,mongodb,pr,nestjs&theme=light)](https://skillicons.dev)
 
+## 😎my products
+### ■ liability matomeru（負債matomeru）
+大学生によくありがちな貸し借りを可視化したプロダクト
+
+参考：https://docs.google.com/presentation/d/10CHFXMBS9ifVjTU3LFIQpLubzU1fmgrP7_CW7KLpWaw/edit#slide=id.p
+
+### ■ life-chart matomeru 🚧
+就活生ならおそらくみんなやる人生曲線を作るプロダクト
+
+参考：https://docs.google.com/presentation/d/12IAphGyhF2vrmWHt5BhAM_w6oZn_JSerPDiMisO1z4Y/edit#slide=id.p
