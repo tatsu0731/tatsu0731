@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=tatsu0731)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌱my skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,php,laravel,ruby,rails,py,go,react,nextjs,mysql,postgres,figma,firebase,supabase,docker,mongodb,pr,nestjs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,php,laravel,ruby,rails,py,go,react,nextjs,mysql,postgres,aws,figma,firebase,supabase,docker,mongodb,pr,nestjs&theme=light)](https://skillicons.dev)
 
 ## 😎my products
 ### ■ liability matomeru（負債matomeru）
